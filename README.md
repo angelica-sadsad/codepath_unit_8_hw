@@ -24,6 +24,8 @@ Vulnerability #1: Session Hijacking
 
 Description:
 
+Vulnerability #2: SQLi Injection
+
 
 
 ## Green
