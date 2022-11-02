@@ -19,9 +19,11 @@ Each color is vulnerable to only 2 of the 6 possible exploits. First discover wh
 
 Vulnerability #1: __________________
 
+<img src="blue-vulnerability-1.gif" alt="blue">
+
+
 Description:
 
-<img src="blue vulnerability 1.gif" alt="blue">
 
 
 ## Green
