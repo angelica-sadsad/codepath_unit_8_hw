@@ -21,7 +21,7 @@ Vulnerability #1: __________________
 
 Description:
 
-<img src="blue vulnerability 1.gif">
+<img src="blue vulnerability 1.gif" alt="blue">
 
 
 ## Green
