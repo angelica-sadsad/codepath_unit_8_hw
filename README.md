@@ -34,13 +34,15 @@ Description:
 
 ## Green
 
-Vulnerability #1: User Enumeration
+Vulnerability #1: Username Enumeration
 
 <img src="green_vulnerability_1.gif" alt="green">
 
 Description:
 
+Vulnerability #2: Cross-site Scripting
 
+Description:
 
 ## Red
 
