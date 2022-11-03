@@ -48,9 +48,9 @@ Description:
 
 ## Red
 
-Vulnerability #1: Insecure Direct Object Reference
+Vulnerability #2: Insecure Direct Object Reference
 
-<img src="red_vulnerability_1.gif" alt="red">
+<img src="red_vulnerability_2.gif" alt="red">
 
 Description:
 
