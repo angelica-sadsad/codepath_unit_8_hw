@@ -48,7 +48,7 @@ Description:
 
 ## Red
 
-Vulnerability #1: 
+Vulnerability #1: Cross Site Scripting Forgery
 
 <img src="red_vulnerability_1.gif" alt="red">
 
