@@ -42,6 +42,8 @@ Description:
 
 Vulnerability #2: Cross-site Scripting
 
+<img src="green_vulnerability_2.gif" alt="green">
+
 Description:
 
 ## Red
